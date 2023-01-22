@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Manrope", sans-serif;
+}
+/* Importing custom fonts */
+@font-face {
+  font-family: "Somarsans Bold";
+  src: url(/fonts/somarsans/TTF/Standard/SomarSans-Bold.ttf) format("truetype");
+  font-weight: bold;
+}
+@font-face {
+  font-family: "Somarsans Regular";
+  src: url(/fonts/somarsans/TTF/Standard/Somarsans-Regular.ttf)
+    format("truetype");
+  font-weight: normal;
+}
