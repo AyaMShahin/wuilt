@@ -4,6 +4,7 @@
 }
 body {
   font-family: "Manrope", sans-serif;
+  direction: rtl;
 }
 /* Importing custom fonts */
 @font-face {
